@@ -21,13 +21,12 @@ addition, the “debar” approach was adopted based on our previous publication
 ## Downloads
 The grape dataset and annotations are about 4.72GB in size and can be downloaded through Baidu Cloud:
 
-    https://pan.baidu.com/s/1S23ccg_WfngVq4XpSlcCfQ 
-    81hn
+    Link:https://pan.baidu.com/s/1S23ccg_WfngVq4XpSlcCfQ 
+    password：81hn
 
 ## License
 The dataset is available to download for commercial/research purposes under a Creative Commons Attribution-ShareAlike 4.0 International License. The copyright remains with the original owners of the images.
 
 
-## Acknowledgements
-This study was partially supported by the Science and Technology Foundation of Guangxi Province (No. 2018AD19339)
-and Research Fund of Guangxi Key Lab of Multi-Source Information Mining & Security (No. 20-A-02-02).
+## Citation
+
